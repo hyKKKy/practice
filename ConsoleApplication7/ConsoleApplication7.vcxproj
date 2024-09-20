@@ -129,10 +129,14 @@
   <ItemGroup>
     <ClCompile Include="Aspirant.cpp" />
     <ClCompile Include="ConsoleApplication7.cpp" />
+    <ClCompile Include="ForeignPassport.cpp" />
+    <ClCompile Include="ForeignPassport.h" />
+    <ClCompile Include="Passport.cpp" />
     <ClCompile Include="Student.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Aspirant.h" />
+    <ClInclude Include="Passport.h" />
     <ClInclude Include="Student.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
